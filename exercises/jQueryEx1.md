@@ -1,4 +1,4 @@
-## Exercise 1 — Hello jQuery
+## jQuery Exercise 1
 
 
 ## Clone the Remote Repository
@@ -12,6 +12,7 @@ $ git status
 
 ```
 
+## Part 1 — Hello jQuery
 
 1.	Go to [http://www.jquery.com](http://www.jquery.com) and download the latest *compressed, production* version – jQuery 3.3.1. Save it in the folder ``jQuery`` in ``htdocs``.  Remember where you save it so you can access it in the code below.
 	
