@@ -13,10 +13,10 @@ $ git status
 ```
 
 
-1.	Go to [http://www.jquery.com](http://www.jquery.com) and download the latest Development version. Save it in the folder ``restapi2018-jQuery-ex1`` in ``htdocs``.  Remember where you save it so you can access it in the code below.
+1.	Go to [http://www.jquery.com](http://www.jquery.com) and download the latest Development version. Save it in the folder ``jQuery`` in ``htdocs``.  Remember where you save it so you can access it in the code below.
 	
 	
-1.	Run your first jQuery program using the program file [http://localhost/restapi2018-jQuery-ex1/FirstjQ.html](http://localhost/restapi2018-jQuery-ex1/FirstjQ.html) and ``FirstjQ.js`` given.  Note this example uses jQuery 3.3.1 (i.e. ``jquery-3.3.1.min.js``).
+1.	Run your first jQuery program using the program file [http://localhost/jQuery/code/FirstjQ.html](http://localhost/jQuery/code/FirstjQ.html) and ``FirstjQ.js`` given.  Note this example uses jQuery 3.3.1 (i.e. ``jquery-3.3.1.min.js``).
 
 
 1.	Modify the code in ``FirstjQ.js`` to print "hello world" to the browser's console window as well.  Check it works.  F12 key!!
@@ -24,7 +24,7 @@ $ git status
 
 ## Part 2 – Selectors
 
-1.	In your browser view [http://localhost/restapi2018-jQuery-ex1/basicSel.html](http://localhost/restapi2018-jQuery-ex1/basicSel.html).  You should see a red box line around the heading.
+1.	In your browser view [http://localhost/jQuery/code/basicSel.html](http://localhost/jQuery/code/basicSel.html).  You should see a red box line around the heading.
 
 1.	Edit and view both the ``basicSel.html`` and ``basicSel.js`` files given.
 
