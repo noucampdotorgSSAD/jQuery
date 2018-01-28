@@ -5,8 +5,8 @@
 
 ```
 $ cd /xampp/htdocs
-$ git clone https://github.com/noucampdotorg/restapi2018-jQuery-ex1.git
-$ cd restapi2018-jQuery-ex1
+$ git clone https://github.com/noucampdotorgSSAD/jQuery.git
+$ cd jQuery
 $ ls (or dir)
 $ git status
 
