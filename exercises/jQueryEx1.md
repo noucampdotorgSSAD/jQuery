@@ -1,4 +1,4 @@
-## jQuery Exercise 1
+# jQuery Exercise 1
 
 
 ## Clone the Remote Repository
