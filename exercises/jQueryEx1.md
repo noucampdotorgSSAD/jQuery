@@ -4,7 +4,7 @@
 ## Clone the Remote Repository
 
 
-1.	Accept the GitHub Classroom invitation to this exercise here [https://classroom.github.com/a/QEvoCEd2](https://classroom.github.com/a/QEvoCEd2)
+1.	Accept the GitHub Classroom invitation to this exercise [here](http://www.noucamp.org/moodle/mod/resource/view.php?id=4841)
 
 1.	Copy the clone URL from your new repository ``jQuery-<YOURACCOUNT>``
 
