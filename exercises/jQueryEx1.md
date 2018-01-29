@@ -33,6 +33,18 @@ Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` wi
 1.	Modify the code in ``FirstjQ.js`` to print "hello world" to the browser's console window as well.  Check it works.  F12 key!!
 
 
+Push your code to **your private** repository on GitHub.  Type these commands into you *git* client:
+
+	```
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 1 - Part 1 COMPLETED|PARTIAL"
+	$ git push origin master
+	$ git status
+
+	```
+
+
 ## Part 2 – Selectors
 
 1.	In your browser view [http://localhost/jQuery/basicSel.html](http://localhost/jQuery/basicSel.html).  You should see a red box line around the heading.
