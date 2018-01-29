@@ -6,7 +6,7 @@
 
 1.	Accept the GitHub Classroom invitation to this exercise here [https://classroom.github.com/a/QEvoCEd2](https://classroom.github.com/a/QEvoCEd2)
 
-1.	Copy the clone URL from your new repository titles ``jQuery-<YOURACCOUNT>``
+1.	Copy the clone URL from your new repository ``jQuery-<YOURACCOUNT>``
 
 1.	Type these commands into you *git* client:
 
@@ -18,6 +18,9 @@
 	$ git status
 
 	```
+
+Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` with some files in it.
+
 
 ## Part 1 — Hello jQuery
 
