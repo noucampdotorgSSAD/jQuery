@@ -33,7 +33,7 @@ Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` wi
 1.	Modify the code in ``FirstjQ.js`` to print "hello world" to the browser's console window as well.  Check it works.  F12 key!!
 
 
-Push your code to **your private** repository on GitHub.  Type these commands into you *git* client:
+1.	Push your code to **your private** repository on GitHub.  Type these commands into you *git* client:
 
 	```
 	$ git status
@@ -64,7 +64,7 @@ Push your code to **your private** repository on GitHub.  Type these commands in
 	1.	select the heading and the unordered list with one line of code
 
 
-Push your code to **your private** repository on GitHub.  Type these commands into you *git* client:
+1.	Push your code to **your private** repository on GitHub.  Type these commands into you *git* client:
 
 	```
 	$ git status
