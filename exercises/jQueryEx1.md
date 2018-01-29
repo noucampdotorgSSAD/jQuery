@@ -3,14 +3,21 @@
 
 ## Clone the Remote Repository
 
-```
-$ cd /xampp/htdocs
-$ git clone https://github.com/noucampdotorgSSAD/jQuery.git
-$ cd jQuery
-$ ls (or dir)
-$ git status
 
-```
+1.	Accept the GitHub Classroom invitation to this exercise here [https://classroom.github.com/a/QEvoCEd2](https://classroom.github.com/a/QEvoCEd2)
+
+1.	Copy the clone URL from your new repository titles ``jQuery-<YOURACCOUNT>``
+
+1.	Type these commands into you *git* client:
+
+	```
+	$ cd /<DRIVE>/xampp/htdocs   
+	$ git clone <URL> jQuery
+	$ cd jQuery
+	$ ls (or dir)
+	$ git status
+
+	```
 
 ## Part 1 — Hello jQuery
 
@@ -29,8 +36,7 @@ $ git status
 
 1.	Edit and view both the ``basicSel.html`` and ``basicSel.js`` files given.
 
-
-1.	Use appropriate jQuery code to select (using red box line) the following content using *Basic Selectors*. Test one at a time.
+1.	Use appropriate jQuery code to select (using red box line) the following content using *Basic Selectors*. Add the code to the file ``basicSel.js`` and test one at a time.
 
 	1.	select all paragraphs
 	1.	select the unordered list
