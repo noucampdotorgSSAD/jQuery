@@ -64,5 +64,14 @@ Push your code to **your private** repository on GitHub.  Type these commands in
 	1.	select the heading and the unordered list with one line of code
 
 
+Push your code to **your private** repository on GitHub.  Type these commands into you *git* client:
 
+	```
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 1 - Part 2 COMPLETED|PARTIAL"
+	$ git push origin master
+	$ git status
+
+	```
 
