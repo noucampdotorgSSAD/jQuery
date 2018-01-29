@@ -38,7 +38,7 @@ Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` wi
 	```
 	$ git status
 	$ git add .
-	$ git commit -m "Exercise 1 - Part 1 COMPLETED|PARTIAL"
+	$ git commit -m "Exercise 1 - Part 1 DONE|PARTIAL|HELP"
 	$ git push origin master
 	$ git status
 
@@ -69,7 +69,7 @@ Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` wi
 	```
 	$ git status
 	$ git add .
-	$ git commit -m "Exercise 1 - Part 2 COMPLETED|PARTIAL"
+	$ git commit -m "Exercise 1 - Part 2 DONE|PARTIAL|HELP"
 	$ git push origin master
 	$ git status
 
