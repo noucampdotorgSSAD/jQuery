@@ -75,5 +75,5 @@ Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` wi
 
 	```
 
-If you want to ask for help with your code let your lecturer know.  Refer to your repository if necessary.
+If you need help with your code let your lecturer know.  Refer to your repository if necessary.
 
