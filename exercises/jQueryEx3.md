@@ -26,5 +26,5 @@ Using the HTML page [http://localhost/jQuery/basicEvents.html](http://localhost/
 
 1.	Update the ``<span>`` tag with the correct fruit when a new fruit is selected from the dropdown box.  Use the ``val()`` method to get the value from the dropdown box
 
-1.	When you input any new fruit name in the text box and add click the *Add Fruit* button, the fruit should be added to the drop down box.  Ensure that the attribut ``value`` is also given the appropriate value
+1.	When you input any new fruit name in the text box and add click the *Add Fruit* button, the fruit should be added to the drop down box.  Ensure that the attribute ``value`` is also given the appropriate value
 
