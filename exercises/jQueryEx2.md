@@ -1,19 +1,16 @@
-## jQuery Exercise 2
+# jQuery Exercise 2
 
 
 ## Fetch latest Repository Branch
 
 ```
 $ cd /DRIVE/xampp/htdocs/jQuery
-$ git pull https://github.com/noucampdotorgSSAD/jQuery.git latest
-$ git branch 
-$ git checkout master
-$ git merge latest
+$ git pull --no-edit https://github.com/noucampdotorgSSAD/jQuery.git latest
 $ git status
 
 ```
 
-## Part 1 — Filters
+# Part 1 — Filters
 
 1.	Use appropriate jQuery code to select the following content from ``basicSel.html`` using Filters.  Test one at a time.
 

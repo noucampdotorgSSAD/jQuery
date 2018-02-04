@@ -14,7 +14,7 @@
 	$ cd /<DRIVE>/xampp/htdocs   
 	$ git clone <URL> jQuery
 	$ cd jQuery
-	$ ls (or dir)
+	$ ls
 	$ git status
 
 	```
@@ -22,7 +22,7 @@
 Check your ``htdocs`` folder.  You should have a new folder called ``jQuery`` with some files in it.
 
 
-## Part 1 — Hello jQuery
+# Part 1 — Hello jQuery
 
 1.	Go to [http://www.jquery.com](http://www.jquery.com) and download the latest *compressed, production* version – jQuery 3.3.1. Save it in the folder ``jQuery`` in ``htdocs``.  Remember where you save it so you can access it in the code below.
 	
