@@ -28,3 +28,13 @@ Using the HTML page [http://localhost/jQuery/basicEvents.html](http://localhost/
 
 1.	When you input any new fruit name in the text box and add click the *Add Fruit* button, the fruit should be added to the drop down box.  Ensure that the attribute ``value`` is also given the appropriate value
 
+1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+
+	```
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 3 - Part 1 DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
