@@ -120,5 +120,5 @@ $ git status
 1.	Examine carefully the code in ``insertArtist.php`` that will, if given the correct data, insert a new artist to the ``artist`` table. 
 
 
-1.	Modify ``AjaxArtistINSERT.js`` such that it gets and posts the appropriate data to the ``insertArtist.php`` program.
+1.	Modify ``AjaxArtistINSERT.js`` such that it gets and posts the appropriate data to the ``insertArtist.php`` program.  When done you should have a HTML & Ajax solution that allows you to insert new artists.
 
