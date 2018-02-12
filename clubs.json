@@ -1,0 +1,8 @@
+{
+  "clubs": [
+    { "name":"Chelsea" , "ground":"Stamford Bridge" },
+    { "name":"Liverpool" , "ground":"Anfield" },
+    { "name":"Manchester Utd" , "ground":"Old Trafford" },
+    { "name":"Arsenal" , "ground":"Emirates Stadium" }
+  ]
+}

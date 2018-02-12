@@ -93,3 +93,30 @@ $ git status
 	$ git status
 
 	```
+
+
+
+# Part 3 – Ajax ajax() Method
+
+1.	Examine and then run the code in [http://localhost/jQuery/AjaxAjax.html](http://localhost/jQuery/AjaxAjax.html) to demonstrate jQuery using the Ajax function ``ajax()``.
+
+1.	Examine and then run the code in [http://localhost/jQuery/AjaxAjaxJSON.html](http://localhost/jQuery/AjaxAjaxJSON.html) to demonstrate jQuery using the Ajax function ``ajax()`` to retrieve JSON data.
+
+1.	Modify the code in ``AjaxAjaxJSON.js`` to retrieve artist data using the ``getArtistsJSON.php`` PHP program and display the artist names in a HTML table with the ``<div>``.
+
+
+# Part 4 – Ajax post() Method
+
+1.	Examine and then run the code in [http://localhost/jQuery/AlbumsPOST.html](http://localhost/jQuery/AlbumsPOST.html) that posts an ``artist_id`` to the ``getAlbums.php`` PHP program and then displays the albums for that artist in the HTML page.
+
+
+1.	Examine your previous solution in ``Artists.html`` that retrieved the artist names using ``getArtistsJSON.php`` and created a dropdown box with those artists.  Modify that code such when an artist is selected from the dropdown box the album names for the artist are retrieved and displayed in a HTML table under the dropdown.
+
+
+1.	Examine the code in and view [http://localhost/jQuery/AjaxArtistINSERT.html](http://localhost/jQuery/AjaxArtistINSERT.html).  
+
+1.	Examine carefully the code in ``insertArtist.php`` that will, if given the correct data, insert a new artist to the ``artist`` table. 
+
+
+1.	Modify ``AjaxArtistINSERT.js`` such that it gets and posts the appropriate data to the ``insertArtist.php`` program.
+
