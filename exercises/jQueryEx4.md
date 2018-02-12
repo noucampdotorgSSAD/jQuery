@@ -102,12 +102,14 @@ $ git status
 
 1.	Examine and then run the code in [http://localhost/jQuery/AjaxAjaxJSON.html](http://localhost/jQuery/AjaxAjaxJSON.html) to demonstrate jQuery using the Ajax function ``ajax()`` to retrieve JSON data.
 
-1.	Modify the code in ``AjaxAjaxJSON.js`` to retrieve artist data using the ``getArtistsJSON.php`` PHP program and display the artist names in a HTML table with the ``<div>``.
+1.	Modify the code in ``AjaxAjaxJSON.js`` to retrieve artist data using the ``getArtistsJSON.php`` PHP program and display the artist names in a HTML table within the ``<div>``.
 
 
 # Part 4 – Ajax post() Method
 
 1.	Examine and then run the code in [http://localhost/jQuery/AlbumsPOST.html](http://localhost/jQuery/AlbumsPOST.html) that posts an ``artist_id`` to the ``getAlbums.php`` PHP program and then displays the albums for that artist in the HTML page.
+
+	Change the code in ``AlbumsPOST.js`` to see albums by *Miles Davis*.
 
 
 1.	Examine your previous solution in ``Artists.html`` that retrieved the artist names using ``getArtistsJSON.php`` and created a dropdown box with those artists.  Modify that code such when an artist is selected from the dropdown box the album names for the artist are retrieved and displayed in a HTML table under the dropdown.
